@@ -10,6 +10,8 @@ This is a plug-and-play Jekyll theme which you can use on GitHub Pages without e
 
 I'm adding a line here to test re-deployment
 
+And another to test CLI
+
 ![](/images/reverie-demo.png)
 
 ## Features overview
