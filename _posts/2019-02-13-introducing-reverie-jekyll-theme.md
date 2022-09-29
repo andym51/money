@@ -8,6 +8,8 @@ categories: [Miscellaneous, Jekyll]
 
 This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
 
+I'm adding a line here to test re-deployment
+
 ![](/images/reverie-demo.png)
 
 ## Features overview
